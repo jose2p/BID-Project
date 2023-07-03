@@ -2,11 +2,6 @@
 
 # BOOTCAMP FULL STACK MERN
 
-## Proyecto AGShop
-
-AGShop nace con la idea de tener una tienda dentro de un colegio,
-el objetivo es vender utiles e indumentaria a traves de un sistema separado.
-
 ## Utilizaremos
 
 - [Axios](https://axios-http.com/docs/intro)
@@ -37,4 +32,3 @@ el objetivo es vender utiles e indumentaria a traves de un sistema separado.
 --------------------------------------------------------------------------------------------------------
 
 ## Vista del cliente
-![Imagen Vista Cliente](https://github.com/DaniPoka/BID-Solo-Project/blob/main/VistaClienteLogueado.jpg)
