@@ -1,6 +1,4 @@
-###Proyecto de una Ecommerce 
-
-## Utilizaremos
+### Proyecto de una Ecommerce 
 
 
 ### Front-End
